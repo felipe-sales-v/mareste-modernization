@@ -8,3 +8,7 @@
 > Commits you push to the connected branch sync back to Lovable and show up in
 > the editor, so keep the branch in a working state.
 <!-- LOVABLE:END -->
+
+## Architecture
+
+- Keep the public site as a single-page company presentation with anchored sections, because its primary goal is fast commercial discovery and contact.
